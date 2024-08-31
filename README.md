@@ -1,3 +1,9 @@
+# Sobre mim **IZEQ**
+##STC MIL GRAU
+
+
+
+
 - 👋 ola e sou  @maveco1970
 - 👀 eu estou interessado em aprender programaçao ...
 - 🌱 I’m currently learning ...
