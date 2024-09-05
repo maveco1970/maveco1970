@@ -1,10 +1,11 @@
 # Sobre mim **IZEQ**
-##STC MIL GRAU
+## STC MIL ARAMCADÃO DE OPALÃO
 
 
 
 
-- 👋 ola e sou  @maveco1970
+- 👋 ola e sou  @opalão1970
+- :+1:O meu .[e-mail](amorim.izequiel@escola.pr.gov.br)
 - 👀 eu estou interessado em aprender programaçao ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -13,6 +14,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-maveco1970/maveco1970 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+opalão1970/opalão1970 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
